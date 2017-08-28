@@ -1,0 +1,23 @@
+{
+  "name": "Exemplos-Polymer",
+  "homepage": "https://github.com/lcassiano1612/polymer",
+  "authors": [
+    "Lucas Oliveira <l.cassiano1612@gmail.com>"
+  ],
+  "description": "Varios exemplos com polymer",
+  "main": "",
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencias": {
+    "polymer": "Polymer/polymer#1.9.1",
+  }
+}
